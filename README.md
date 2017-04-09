@@ -7,7 +7,7 @@ Custom build of Ishiiruka Dolphin
 - /players [number of players to join the lobby before the game starts]
 - /port [port for direction ip connection]
 - /gamename [string of the game name] ie "SUPER SMASH BROS. Melee (GALE01, Revision 2)"
-- /t [if the connection is to a traversal or direct connection lobby]
+- /t [if added sets creates/joins a traversal lobby, otherwise its a direct connection]
 
 ## Events
 - Dolphin initialized
